@@ -14,7 +14,7 @@ public class Main {
 
         int sum = amount * percent / 100 + chek + amount;
 
-        System.out.println("Итоговый бонус: " + sum);
+        System.out.println("Сумма на счёте: " + sum);
 
 
 
